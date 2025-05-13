@@ -1,0 +1,9 @@
+[package]
+name = "my_plugin"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
+linkme.workspace = true
+initialization.workspace = true
